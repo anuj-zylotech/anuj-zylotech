@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
 
 - 🔭 I’m currently working on various web/app projects using React, Node.js.
 - 🌱 I’m currently learning Postgres, Snowflake & Python.
-- 👯 I’m looking to collaborate on JavaScript.
-- 🤔 I’m looking for help with Typescript Projects.
-- 💬 Ask me about anything, I'm happy to help!
 
 ## Technologies I can work with:
 
