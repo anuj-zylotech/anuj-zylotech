@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 
 
-![anuj-zylotech's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuj-zylotech&show_icons=true&hide=["issues"]&theme=radical)
+![anuj-zylotech's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuj-zylotech&show_icons=true&hide["issues"]&theme=radical&count_private=true)
 
 [![HitCount](http://hits.dwyl.com/anuj-zylotech/anuj-zylotech.svg)](http://hits.dwyl.com/anuj-zylotech/anuj-zylotech)
